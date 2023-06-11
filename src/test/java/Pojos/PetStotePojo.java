@@ -103,7 +103,7 @@ public class PetStotePojo {
                 ", email='" + email + '\'' +
                 ", password='" + password + '\'' +
                 ", phone=" + phone +
-                ", userStatus=" + userStatus +
+                ", user" + userStatus +
                 '}';
     }
 }
